@@ -3,6 +3,12 @@
 
 open source film script
 
+## Authors
+
++ [@mr.qfang](https://github.com/joshuafang)
++ [@AdonRain](https://github.com/AdonRain)
++ [@song940](https://github.com/song940)
+
 ## Director
 
 ## Actors
